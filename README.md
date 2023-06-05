@@ -1,9 +1,10 @@
 # flutter_quiz_app
 
+![Capture](https://github.com/ahmedjarad0/flutter_quiz_app/assets/113943692/3deca5b6-3ba1-4329-8a0f-1dc21407ab4a)
+
 A new Flutter project.
 
 ## Getting Started
-![Capture](https://github.com/ahmedjarad0/flutter_quiz_app/assets/113943692/3deca5b6-3ba1-4329-8a0f-1dc21407ab4a)
 
 This project is a starting point for a Flutter application.
 
