@@ -1,8 +1,9 @@
 # flutter_quiz_app
 
-![Capture](https://github.com/ahmedjarad0/flutter_quiz_app/assets/113943692/3deca5b6-3ba1-4329-8a0f-1dc21407ab4a)
+![qqq](https://github.com/ahmedjarad0/flutter_azkar_app/assets/113943692/07cbcdc8-d419-4390-893b-5df50896c05b)
 
-A new Flutter project.
+
+Sqlite & Provider State management
 
 ## Getting Started
 
